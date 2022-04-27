@@ -10,6 +10,7 @@ const Home: NextPage = () => {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<TwitterCard
+				type="retweet"
 				user={{
 					name: "ナッキー",
 					acountName: "nakki",
