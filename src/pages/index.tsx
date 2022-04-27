@@ -1,4 +1,4 @@
-import { TwitterCard } from "components/TwitterCardComponents";
+import { TwitterCard } from "src/components/TwitterCardComponents";
 import type { NextPage } from "next";
 import Head from "next/head";
 const Home: NextPage = () => {
